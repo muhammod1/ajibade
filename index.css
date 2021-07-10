@@ -1,0 +1,18 @@
+.header{
+    background-color: black;
+    color: white;
+}
+
+.header-nav{
+    display: flex;
+    justify-content: space-around;    
+}
+.logo-nav{
+    width: 400px;
+    font-size: 80px;
+    margin-left: 100px;
+}
+.menu-nav{
+    display: flex;
+
+}
